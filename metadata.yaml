@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '41949'
     url: http://www.gutenberg.org/2009/agents/41949
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42959#The-Survey-of-London
 gutenberg_issued: '2013-06-16'
 gutenberg_type: Text
 identifiers:
