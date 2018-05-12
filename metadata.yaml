@@ -1,0 +1,40 @@
+_repo: The-Survey-of-London_42959
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Wheatley, Henry B. (Henry Benjamin)
+    alias: Wheatley, H. B. (Henry Benjamin)
+    birthdate: 1838
+    deathdate: 1917
+    gutenberg_agent_id: '205'
+    url: http://www.gutenberg.org/2009/agents/205
+    wikipedia: http://en.wikipedia.org/wiki/Henry_B._Wheatley
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stow, John
+    aliases:
+    - Seymour, Robert
+    - Stow, Iohn
+    - Stowe, John
+    deathdate: 1605
+    gutenberg_agent_id: '41949'
+    url: http://www.gutenberg.org/2009/agents/41949
+description: ''
+gutenberg_issued: '2013-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42959'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Surveys'
+- !lcc 'DA'
+- !lcsh 'London (England) -- Description and travel'
+- !lcsh 'London (England) -- History -- 16th century -- Sources'
+title: The Survey of London
+url: http://www.gutenberg.org/ebooks/42959
